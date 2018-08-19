@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/igun/.android/build-cache/2b3a9f0919086e2517b5d38771bba52ceda05f10/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

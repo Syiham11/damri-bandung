@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/igun/.android/build-cache/2b3a9f0919086e2517b5d38771bba52ceda05f10/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/igun/.android/build-cache/2b3a9f0919086e2517b5d38771bba52ceda05f10/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/igun/.android/build-cache/2b3a9f0919086e2517b5d38771bba52ceda05f10/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/igun/.android/build-cache/2b3a9f0919086e2517b5d38771bba52ceda05f10/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

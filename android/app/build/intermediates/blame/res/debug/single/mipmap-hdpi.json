@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

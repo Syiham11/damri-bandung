@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/igun/.android/build-cache/fc66dc4c3fe78d32ce14e8e0f0a63835b2f2c831/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/pre-dexed/debug/classes_3e7d765271aa96455b5aebf59d477519b591f4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igun/.android/build-cache/fc66dc4c3fe78d32ce14e8e0f0a63835b2f2c831/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_fd0873ef1b4d2acb5c51c22217606e3225bf9b5b.jar" />
+    </item>
+
+</items>

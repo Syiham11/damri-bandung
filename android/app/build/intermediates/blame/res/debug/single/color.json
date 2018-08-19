@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color/abc_secondary_text_material_light.xml"
+    }
+]

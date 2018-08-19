@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/igun/Documents/dev/react-native/DamriBandung/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/igun/.android/build-cache/e944b730b35366d831c9876a540cbfad7535e63f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
